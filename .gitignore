@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+# datasets
+bw_pages/
+raw_pages/
+pdfs/
+transcripts/
+transkribus/
+
+# notebook cache
+.ipynb_checkpoints/
